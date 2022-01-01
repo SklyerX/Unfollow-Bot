@@ -12,6 +12,10 @@
 - Make sure to add your add your correct account information.
 - Start.
 ----------
+**Executable**
+
+- Press on the unfollower.exe (this will not allow you to view the code)
+----------
 **Contact Me**
 
 ﹒[Discord](https://discord.com/users/805166992432431124)
